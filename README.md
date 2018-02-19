@@ -1,1 +1,1 @@
-# Psychic-game
+Welcome, In this game you will be guessing a letter from the alphabet by using your keyboard! You have nine guesses to choose from, if you press the correct letter, you get a point! But, if you guess the wrong letter nine times, then you will have a loss!
